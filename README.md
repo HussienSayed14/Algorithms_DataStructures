@@ -5,5 +5,6 @@ Each topic will include number of test to indicate the number of iterations to e
 Topics:
 
 1)Binary Search O(log n);
+2)Selection Sort O(n^2);
 
 
